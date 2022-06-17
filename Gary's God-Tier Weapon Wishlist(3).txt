@@ -1,0 +1,280 @@
+title:Gary's God-Tier Weapon Wishlist
+description:gary stone is a freaking genius
+
+// Horror's Least - Another Dreaming City weapon? (pve)
+//notes: Could they get any less creative? tags:pve
+dimwishlist:item=216983039&perks=509074078,1546637391
+dimwishlist:item=216983039&perks=509074078,2896038713
+dimwishlist:item=216983039&perks=1428297954,1546637391
+dimwishlist:item=216983039&perks=1428297954,2896038713
+
+
+// Nezarec's Whisper - Arc Glaive ()
+//notes: Theo moment, really strong endgame potential due to S17 mods and Adaptive Munitions.
+dimwishlist:item=254636484&perks=951095735,1048183818
+
+
+// The Title - Gary's 'Favourite' Void SMG ()
+//notes: Wait a minute, this isn't Shayura's Wrath.....
+dimwishlist:item=294129361&perks=3661387068,1087426260,1428297954,1546637391,1702976605
+
+
+// Drang (Baroque) - Sturm's Boyfriend ()
+//notes: its kinda meh
+dimwishlist:item=502356570&perks=588594999,4293542123
+dimwishlist:item=502356570&perks=1683379515,4293542123
+
+
+// D.F.A. - The Don't Give A Fuck (pvp)
+//notes: or DGAF for short tags:pvp
+dimwishlist:item=575830664&perks=
+
+
+// Falling Guillotine - WHY IS THIS OKAY? (god-pve)
+//notes: I cannot believe they put Darkdrinker back in the game. AS A LEGENDARY???!!!! THIS THING IS AWESOME! PAIR IT WITH WITHERHOARD AND LUCENT BLADE AND YOU ARE INSANE! tags:god-pve
+dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130
+
+
+// Cataclysmic - WALUIGI THATS A LOT OF DAMAGE (god-pve,controller,mnk)
+//notes: HOT HOT HOT HOT HOT BAIT AND SWITCH GIVE ME BABIES tags:god-pve,controller,mnk
+dimwishlist:item=999767358&perks=1354429876,3078487919
+
+
+// Forensic Nightmare - This exists? ()
+//notes: Wow this is a real gun?
+dimwishlist:item=1526296434&perks=1428297954,1015611457
+dimwishlist:item=1526296434&perks=1428297954,124408337
+dimwishlist:item=1526296434&perks=1428297954,4082225868
+dimwishlist:item=1526296434&perks=1428297954,2726471870
+
+
+// Redback-5si - please use sidearms ()
+//notes: please use sidearms
+dimwishlist:item=1687353095&perks=1820235745,3425386926
+dimwishlist:item=1687353095&perks=1820235745,3708227201
+dimwishlist:item=1687353095&perks=1820235745,4049631843
+dimwishlist:item=1687353095&perks=1583705720,3425386926
+dimwishlist:item=1687353095&perks=1583705720,3708227201
+dimwishlist:item=1687353095&perks=1583705720,4049631843
+
+
+// New Purpose - Take me mommy (pvp)
+//notes: Holy shit why can it roll both Tunnel Vision AND Desparado???!! tags:pvp
+dimwishlist:item=1780464822&perks=202670084,1885400500,2946784966,3047969693
+dimwishlist:item=1780464822&perks=202670084,1561002382,2946784966,3047969693
+dimwishlist:item=1780464822&perks=202670084,1968497646,2946784966,3047969693
+
+
+// New Purpose - Yeah it's okay I guess (pve)
+//notes: Meh tags:pve
+dimwishlist:item=1780464822&perks=2779035018,124408337
+dimwishlist:item=1780464822&perks=2779035018,1546637391
+dimwishlist:item=1780464822&perks=2779035018,2896038713
+dimwishlist:item=1780464822&perks=2779035018,1048183818
+dimwishlist:item=1780464822&perks=509074078,124408337
+dimwishlist:item=1780464822&perks=509074078,1546637391
+dimwishlist:item=1780464822&perks=509074078,2896038713
+dimwishlist:item=1780464822&perks=509074078,1048183818
+dimwishlist:item=1780464822&perks=1428297954,124408337
+dimwishlist:item=1780464822&perks=1428297954,1546637391
+dimwishlist:item=1780464822&perks=1428297954,2896038713
+dimwishlist:item=1780464822&perks=1428297954,1048183818
+
+
+// Bump in the Night - Why does anyone care? (pve)
+//notes: Literally farm out a good Palymyra-B, or use Gjhallarhorn. tags:pve
+dimwishlist:item=1959650777&perks=3525010810,3796465595,3300816228,1546637391
+
+
+// Bump in the Night - Ad-Clear Fun ()
+dimwishlist:item=1959650777&perks=3525010810,3796465595,3300816228,2396489472
+dimwishlist:item=1959650777&perks=3525010810,3796465595,3523296417,2396489472
+
+
+// Lingering Dread - CBT: The Stasis Grenade Launcher ()
+//notes: Why does it have to look like a cock being executed
+dimwishlist:item=2026087437&perks=3525010810,3032599245,3300816228,2458213969
+dimwishlist:item=2026087437&perks=3525010810,3032599245,3300816228,3523296417
+dimwishlist:item=2026087437&perks=3525010810,3032599245,3300816228,1546637391
+dimwishlist:item=2026087437&perks=3525010810,3032599245,509074078,2458213969
+dimwishlist:item=2026087437&perks=3525010810,3032599245,509074078,3523296417
+dimwishlist:item=2026087437&perks=3525010810,3032599245,509074078,1546637391
+dimwishlist:item=2026087437&perks=3525010810,3301904089,3300816228,2458213969
+dimwishlist:item=2026087437&perks=3525010810,3301904089,3300816228,3523296417
+dimwishlist:item=2026087437&perks=3525010810,3301904089,3300816228,1546637391
+dimwishlist:item=2026087437&perks=3525010810,3301904089,509074078,2458213969
+dimwishlist:item=2026087437&perks=3525010810,3301904089,509074078,3523296417
+dimwishlist:item=2026087437&perks=3525010810,3301904089,509074078,1546637391
+
+
+// Fixed Odds - Gambling Personified (pve)
+//notes: tags:pve
+dimwishlist:item=2194955522&perks=2779035018,1771339417
+dimwishlist:item=2194955522&perks=2779035018,557221067
+dimwishlist:item=2194955522&perks=2869569095,1771339417
+dimwishlist:item=2194955522&perks=2869569095,557221067
+
+
+// IKELOS_SMG_v1.0.2 - GARY'S BABY (god-pve)
+//notes: This gun is Gary Stone's baby. Do NOT take this away from him. If Luke Smith tries to sunset this, he will feel death. tags:god-pve
+dimwishlist:item=2222560548&perks=4090651448,1140096971,1820235745,1546637391
+dimwishlist:item=2222560548&perks=4090651448,1140096971,1820235745,3523296417
+
+
+// Fugue-55 - Walter White's Fugue State (pve)
+//notes: HOLY SHIT THIS IS REALLY COOL FOR MIXING UP DAMAGE STRATS tags:pve
+dimwishlist:item=2233545123&perks=3300816228,1546637391
+dimwishlist:item=2233545123&perks=3300816228,2896038713
+dimwishlist:item=2233545123&perks=3300816228,1771339417
+
+
+// The Epicurean - Epic Games ()
+//notes: Has potential to be a PvP monster, just because of Quickdraw and Backup Plan
+dimwishlist:item=2263839058&perks=706527188,1600092898
+
+
+// Hollow Denial - Is that another Trace? ()
+//notes: Too bad it's hot garbage.
+dimwishlist:item=2323544076&perks=1048183818,557221067
+dimwishlist:item=2323544076&perks=1556840489,557221067
+dimwishlist:item=2323544076&perks=1570042021,557221067
+dimwishlist:item=2323544076&perks=3436462433,557221067
+
+
+// CALUS Mini-Tool - Don't touch that! ()
+//notes: It's hot!
+dimwishlist:item=2490988246&perks=1631667848,4293542123
+dimwishlist:item=2490988246&perks=2039302152,4293542123
+
+
+// Lunulata-4b - Green Arrow ()
+dimwishlist:item=2513965917&perks=509074078,124408337,3988215619
+dimwishlist:item=2513965917&perks=2846385770,124408337,3988215619
+dimwishlist:item=2513965917&perks=2866798147,124408337,3988215619
+
+
+// Strident Whistle - Fortnite's Boom Bow ()
+//notes: Only in S17 though :(
+dimwishlist:item=2591241074&perks=201365942,4293542123
+dimwishlist:item=2591241074&perks=1428297954,4293542123
+dimwishlist:item=2591241074&perks=588594999,4293542123
+
+
+// Empirical Evidence - breachlight ()
+//notes: they brought breachlight back
+dimwishlist:item=2607304614&perks=1428297954,4082225868
+dimwishlist:item=2607304614&perks=1428297954,3673922083
+dimwishlist:item=2607304614&perks=1428297954,2726471870
+
+
+// Riptide - A poor man's Deliverance ()
+//notes: A poor man's Deliverance
+dimwishlist:item=2715240478&perks=1428297954,2978966579
+dimwishlist:item=2715240478&perks=1428297954,1546637391
+dimwishlist:item=2715240478&perks=1556840489,2978966579
+dimwishlist:item=2715240478&perks=1556840489,1546637391
+dimwishlist:item=2715240478&perks=3300816228,2978966579
+dimwishlist:item=2715240478&perks=3300816228,1546637391
+
+
+// Firefright - FireFright Wish (pve)
+//notes: tags:pve
+dimwishlist:item=2778013407&perks=744594675,3708227201
+
+
+// Unforgiven - CBT + ()
+dimwishlist:item=3000847393&perks=2779035018,776531651
+dimwishlist:item=3000847393&perks=2779035018,11612903
+dimwishlist:item=3000847393&perks=2779035018,2610012052
+dimwishlist:item=3000847393&perks=2779035018,3425386926
+dimwishlist:item=3000847393&perks=2779035018,4104185692
+dimwishlist:item=3000847393&perks=509074078,776531651
+dimwishlist:item=3000847393&perks=509074078,11612903
+dimwishlist:item=3000847393&perks=509074078,2610012052
+dimwishlist:item=3000847393&perks=509074078,3425386926
+dimwishlist:item=3000847393&perks=509074078,4104185692
+dimwishlist:item=3000847393&perks=3523296417,776531651
+dimwishlist:item=3000847393&perks=3523296417,11612903
+dimwishlist:item=3000847393&perks=3523296417,2610012052
+dimwishlist:item=3000847393&perks=3523296417,3425386926
+dimwishlist:item=3000847393&perks=3523296417,4104185692
+
+
+// Austringer - CHINESE EYASLUNA (god-pvp,mnk,controller)
+//notes: Need I say anything more? tags:god-pvp,mnk,controller
+dimwishlist:item=3055790362&perks=202670084,1885400500,699525795,2846385770
+
+
+// Beloved - THE LDR 5001 (god-pvp,controller,mnk)
+//notes: Literally THE sniper tags:god-pvp,controller,mnk
+dimwishlist:item=3107853529&perks=202670084,1885400500,957782887,706527188
+
+
+// Funnelweb - Recluse (god-pve)
+//notes: Literally Recluse, they even used the same model. tags:god-pve
+dimwishlist:item=3341893443&perks=1820235745,4104185692
+dimwishlist:item=3341893443&perks=1820235745,11612903
+dimwishlist:item=3341893443&perks=2450788523,4104185692
+dimwishlist:item=3341893443&perks=2450788523,11612903
+
+
+// Silicon Neuroma - The sniper no one cares about ()
+//notes: The sniper no one cares about
+dimwishlist:item=3355385170&perks=280464955,1771339417
+dimwishlist:item=3355385170&perks=280464955,2896038713
+
+
+// Stormchaser - GROUP PLAY (god-pve,mnk,controller)
+//notes: Title tags:god-pve,mnk,controller
+dimwishlist:item=3652506829&perks=247725512,1771339417
+
+
+// Stormchaser - SOLO PLAY (god-pve,mnk,controller)
+//notes: Title tags:god-pve,mnk,controller
+dimwishlist:item=3652506829&perks=247725512,1546637391
+
+
+// Dead Weight - Another Gambit weapon????? (pve)
+//notes: Another Gambit weapon????? tags:pve
+dimwishlist:item=3738678140&perks=1332244541,3142289711,3436462433,3708227201
+dimwishlist:item=3738678140&perks=1332244541,3142289711,3436462433,4104185692
+dimwishlist:item=3738678140&perks=1332244541,3142289711,3436462433,3523296417
+dimwishlist:item=3738678140&perks=1332244541,3142289711,3436462433,2679249093
+dimwishlist:item=3738678140&perks=1332244541,3142289711,3300816228,3708227201
+dimwishlist:item=3738678140&perks=1332244541,3142289711,3300816228,4104185692
+dimwishlist:item=3738678140&perks=1332244541,3142289711,3300816228,3523296417
+dimwishlist:item=3738678140&perks=1332244541,3142289711,3300816228,2679249093
+dimwishlist:item=3738678140&perks=1332244541,3142289711,509074078,3708227201
+dimwishlist:item=3738678140&perks=1332244541,3142289711,509074078,4104185692
+dimwishlist:item=3738678140&perks=1332244541,3142289711,509074078,3523296417
+dimwishlist:item=3738678140&perks=1332244541,3142289711,509074078,2679249093
+dimwishlist:item=3738678140&perks=1332244541,3142289711,1428297954,3708227201
+dimwishlist:item=3738678140&perks=1332244541,3142289711,1428297954,4104185692
+dimwishlist:item=3738678140&perks=1332244541,3142289711,1428297954,3523296417
+dimwishlist:item=3738678140&perks=1332244541,3142289711,1428297954,2679249093
+dimwishlist:item=3738678140&perks=1332244541,3142289711,1631667848,3708227201
+dimwishlist:item=3738678140&perks=1332244541,3142289711,1631667848,4104185692
+dimwishlist:item=3738678140&perks=1332244541,3142289711,1631667848,3523296417
+dimwishlist:item=3738678140&perks=1332244541,3142289711,1631667848,2679249093
+
+
+// Father's Sins - please dont hit me father (pve)
+//notes: please dont hit me father tags:pve
+dimwishlist:item=3865728990&perks=1556840489,2896038713
+dimwishlist:item=3865728990&perks=3700496672,2896038713
+dimwishlist:item=3865728990&perks=3400784728,2896038713
+
+
+// Submission - anything for you mommy (pve)
+//notes: anything for you mommy tags:pve
+dimwishlist:item=3886416794&perks=1820235745,4104185692
+dimwishlist:item=3886416794&perks=1820235745,2450788523
+dimwishlist:item=3886416794&perks=1820235745,2726471870
+dimwishlist:item=3886416794&perks=1820235745,4082225868
+
+
+// Thoughtless - No think ()
+//notes: No think, only drinky drink
+dimwishlist:item=4067556514&perks=3643424744,1771339417
+
+
